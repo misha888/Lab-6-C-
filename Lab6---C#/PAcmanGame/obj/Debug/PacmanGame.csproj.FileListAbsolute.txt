@@ -1,0 +1,7 @@
+D:\System\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe.config
+D:\System\Pacman-master\PacmanGame\bin\Debug\PacmanGame.exe
+D:\System\Pacman-master\PacmanGame\bin\Debug\PacmanGame.pdb
+D:\System\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csprojAssemblyReference.cache
+D:\System\Pacman-master\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+D:\System\Pacman-master\PacmanGame\obj\Debug\PacmanGame.exe
+D:\System\Pacman-master\PacmanGame\obj\Debug\PacmanGame.pdb
